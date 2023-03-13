@@ -4,14 +4,23 @@
 
 I am Nnenna Kehinde, a Software Engineer(specializing in Backend Development). I am currenting a student learning software engineering at ALX_Africa.
 
-🌱 I enjoy learning new languages. I started learning Php and collarborated with my team to build an e-commerce store. I am currently learning C and Python. I also design great visual UI interface when I am not coding.
+- 🌱 I enjoy learning new languages. I started learning Php and collarborated with my team to build an e-commerce store. I am currently learning C and Python. I also design great visual UI interface when I am not coding.
 
-📚 I love reading crime-fiction books and history.(Hmm 🙄 maybe I would have been a detective). Well, I love reading, and reading programming concepts are fun too.
+- 📚 I love reading crime-fiction books and history.(Hmm 🙄 maybe I would have been a detective). Well, I love reading, and reading programming concepts are fun too.
 
 - ⚡ Fun fact: I love old school songs. They are the best❤.
-- - 📫 How to reach me:
-- ![<LinkedIn>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+
+ 
 <!--
+- - 📫 How to reach me:
+- ![https://www.linkedin.com/in/nnenna-kehinde](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=LinkedIn&logoColor=white)
+- ![Twitter](https://img.shields.io/badge/Twitter-#1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)
+
+ 🎯 Languages
+ 
+ ![HTML5](https://img.shields.io/badge/HTML5-#E34F26?style=for-the-badge&logo=HTML5&logoColor=white) 
+
+ 
 **Nne85/Nne85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
