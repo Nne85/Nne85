@@ -2,13 +2,13 @@
 
 👩🏾 About me
 
-I am Nnenna Kehinde, a Software Engineer(specializing in Backend Development). I am currenting a student learning software engineering at ALX_Africa.
+I am Nnenna Kehinde, a Software Engineer(specializing in Backend Development). A software engineering graduate of ALX_Africa.
 
-- 🌱 I enjoy learning new languages. I started learning Php and collarborated with my team to build an e-commerce store. I am currently learning C and Python. I also design great visual UI interface when I am not coding.
+- 🌱 I enjoy learning new languages. I started learning PHP and collaborated with my team to build an e-commerce store. I am currently learning C and Python. I also design great visual UI interfaces when I am not coding.
 
-- 📚 I love reading crime-fiction books and history.(Hmm 🙄 maybe I would have been a detective). Well, I love reading, and reading programming concepts are fun too.
+- 📚 I love reading crime-fiction books and history. (Hmm 🙄 maybe I would have been a detective). Well, I love reading, and reading programming concepts is fun too.
 
-- ⚡ Fun fact: I love old school songs. They are the best❤.
+- ⚡ Fun fact: I love old-school songs. They are the best❤.
 
  
 <!--
